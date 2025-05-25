@@ -12,21 +12,10 @@ This GitHub repository serves as a dedicated space where I share my personal pro
 
 ### **My Core Areas of Interest:**
 
-* **Red Teaming & Advanced Exploitation:** Simulating sophisticated attacks, bypassing security controls, and demonstrating real-world impact.
-* **Vulnerability Analysis:** Discovering, understanding, and classifying weaknesses in software, systems, and networks.
-* **Penetration Testing:** Performing ethical assessments to evaluate the security posture of systems.
-* **Malware Analysis:** Dissecting malicious software to understand its functionality, origin, and potential impact.
-* **Application Security:** Ensuring the security of software throughout the development lifecycle, from an attacker's perspective.
-* **Risk Management:** Identifying, assessing, and strategically mitigating potential risks to information assets and business operations, bridging the gap between technical findings and business impact.
-
----
-
-### **What You Can Find Here (Examples):**
-
-* **`./[Project_Name_1]`**: A project showcasing advanced exploitation techniques or a custom Red Team tool.
-* **`./[Project_Name_2]`**: A case study on a specific vulnerability, including its exploitation and proposed risk mitigation strategies.
-* **`./Resources`**: Collections of learning materials, personal notes, or useful scripts related to Offensive Security and Risk Management.
-* *(Feel free to add more specific project folders and their brief descriptions here!)*
+* **Red Teaming & Exploitation**: Simulating advanced attacks to bypass defenses and demonstrate real-world impact.
+* **Vulnerability & Penetration Testing**: Discovering and assessing weaknesses in systems, networks, and applications through ethical testing.
+* **Malware & Application Security**: Analyzing malicious code and securing applications from an attacker's perspective.
+* **Risk Management**: Bridging technical findings with business impact to assess and mitigate cybersecurity risks strategically.
 
 ---
 
