@@ -25,6 +25,13 @@ This GitHub repository serves as a dedicated space where I share my personal pro
 
 ---
 
+## My Resume/CV
+
+For a comprehensive overview of my academic background, skills, and projects, please view or download my latest Resume/CV:
+
+* [**View My Resume/CV (PDF)**]([TramPhanNguyenNhat_CV.pdf])
+---
+
 ## Let's Connect!
 
 Feel free to reach out to discuss Red Teaming, Cybersecurity, Risk Management, potential collaborations, or just to share knowledge!
