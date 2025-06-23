@@ -29,7 +29,8 @@ This GitHub repository serves as a dedicated space where I share my personal pro
 
 For a comprehensive overview of my academic background, skills, and projects, please view or download my latest Resume/CV:
 
-* [**View My Resume/CV (PDF)**]([https://github.com/PNNhatTram/MyCV/blob/e6215e0a2b56b8035303c1c5b8fb20e907e048c5/TramPhanNguyenNhat_CV.pdf])
+* [**View My Resume/CV (PDF)**](https://github.com/PNNhatTram/MyCV/blob/e6215e0a2b56b8035303c1c5b8fb20e907e048c5/TramPhanNguyenNhat_CV.pdf)
+
 ---
 
 ## Let's Connect!
